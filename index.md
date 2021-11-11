@@ -6,8 +6,8 @@ Table of content
 
 - [Thoughts on JIRA, Confluence and FLARE documentation](#thoughts-on-jira-confluence-and-flare-documentation)
   - [JIRA](#jira)
-          - [**The good**](#the-good)
-          - [**The bad**](#the-bad)
+    - [**The good**](#the-good)
+      - [**The bad**](#the-bad)
 
 ## JIRA
 
@@ -18,8 +18,8 @@ Table of content
 
 *I liked the understated design of the website, lightweight and clean. It didn't get in the way and actually helped to navigate through the labirynths of menus. After learning how to look for content, finding information became more pleasant and effective. I started to appreciate the high volumes of data available. The fact it allows me to learn more about other interlinked Atlassian products is a smart business move and also makes life easier for people who use more than one of their products. It grew on me.*
 
-###### **The good**
+### **The good**
 Clean page layout, minimalistic design, rich in content, drawing user into the broader universe of Attlasian products via interlinking
 
-###### **The bad**
+#### **The bad**
 Needs getting used to, the user has to learn how to use it fast, overwhelming at first, overlapping menus
