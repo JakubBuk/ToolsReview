@@ -7,7 +7,7 @@ Table of content
 - [Thoughts on JIRA, Confluence and FLARE documentation](#thoughts-on-jira-confluence-and-flare-documentation)
   - [JIRA](#jira)
     - [**The good**](#the-good)
-      - [**The bad**](#the-bad)
+    - [**The bad**](#the-bad)
 
 ## JIRA
 
@@ -21,5 +21,5 @@ Table of content
 ### **The good**
 Clean page layout, minimalistic design, rich in content, drawing user into the broader universe of Attlasian products via interlinking
 
-#### **The bad**
+### **The bad**
 Needs getting used to, the user has to learn how to use it fast, overwhelming at first, overlapping menus
