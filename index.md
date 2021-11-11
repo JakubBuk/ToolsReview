@@ -7,7 +7,8 @@ Table of content
 
 ## JIRA
 
-**Overview:** *It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Attlasian website. Many entrance paths are possible that eventually lead you to the specific toc's & content. 
+**Overview:** 
+*It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Attlasian website. Many entrance paths are possible that eventually lead you to the specific toc's & content. 
 
 My instinct was to test all the entrance paths first to make sure I didn't miss anything, which took time and finally landed me at the same webpage section. After testing the entrance paths, two main table of content sections emerged: Jira Documentation in the form of interlinked guides and Jira Knowledge base with troubleshooting and how-to articles.
 
