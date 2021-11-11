@@ -4,6 +4,10 @@
 Table of content
 
 
+- [Thoughts on JIRA, Confluence and FLARE documentation](#thoughts-on-jira-confluence-and-flare-documentation)
+  - [JIRA](#jira)
+          - [**The good**](#the-good)
+          - [**The bad**](#the-bad)
 
 ## JIRA
 
