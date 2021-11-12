@@ -15,7 +15,7 @@ Table of content
 ## JIRA and Confluence by Atlassian
 
 **Overview:**   
-*It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Attlasian website. Many entrance paths are possible that eventually lead you to the specific toc's & content.*
+*It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Attlasian website. Many entrance paths are possible that eventually lead you to the specific TOCs & content.*
 
 *My instinct was to test all the entrance paths first to make sure I didn't miss anything, which took time and finally landed me at the same webpage section. After testing the entrance paths, two main table of content sections emerged: Documentation in the form of interlinked guides and Knowledge base with troubleshooting and how-to articles.*
 
@@ -32,10 +32,10 @@ Needs getting used to, the user has to learn how to use it fast, overwhelming at
 **Overview:**
 *Compared to the Attlassian help website, Madcap FLARE's online support seemed more traditionally structured and organized. It may not be pretty but it sure is functional.*
 
-*The layout is easy to understand. The menu is accessible without scrolling to the bottom of the page. The search is also hard to miss as it takes the central part of the initial screen. Tutorial videos and pdf's are clearly displayed and available instantly.*
+*The layout is easy to understand. The menu is accessible without scrolling to the bottom of the page. The search is also hard to miss as it takes the central part of the initial screen. Tutorial videos and PDFs are clearly displayed and available instantly.*
 
 ### **The good:**
-Simple and logical layout, instantly usable, the table of contents is always at hand, convenient search, readily available resources - videos and pdfs 
+Simple and logical layout, instantly usable, the table of contents is always at hand, convenient search, readily available resources - videos and PDFs 
 
 ### **The bad:**
 Looks a bit old-fashioned
