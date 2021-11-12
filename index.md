@@ -17,7 +17,11 @@ Table of content
 **Overview:**   
 *It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Attlasian website. Many entrance paths are possible that eventually lead you to the specific TOCs & content.*
 
+![Atlassian Documentation](Images\01-atlassian-docu.png)
+
 *My instinct was to test all the entrance paths first to make sure I didn't miss anything, which took time and finally landed me at the same webpage section. After testing the entrance paths, two main table of content sections emerged: Documentation in the form of interlinked guides and Knowledge base with troubleshooting and how-to articles.*
+
+![Jira Software Cloud](Images/02-jira-cloud.png)
 
 *I liked the understated design of the website, lightweight and clean. It didn't get in the way and actually helped to navigate through the labirynths of menus. After learning how to look for content, finding information became more pleasant and effective. I started to appreciate the high volumes of data available. The fact it allows me to learn more about other interlinked Atlassian products is a smart business move and also makes life easier for people who use more than one of their products. It grew on me.*
 
