@@ -27,6 +27,8 @@ Clean page layout, minimalistic design, rich in content, drawing user into the b
 ### **The bad**
 Needs getting used to, the user has to learn how to use it fast, overwhelming at first, overlapping menus
 
+
+
 ## Madcap FLARE
 
 **Overview:**
