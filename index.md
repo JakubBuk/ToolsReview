@@ -23,27 +23,31 @@ Table of content
 
 ![Jira Documentation](Images/03-jira-resourcces.png)
 ![Confluence Documentation](Images/10-confluence-resources.png)
+![Jira Knowledge Base](Images/08-jira-kb2.png)
+![Confluence Knowledge Base](Images/17-confluence-kb.png)
 
 *I liked the understated design of the website, lightweight and clean. It didn't get in the way and actually helped to navigate through the labirynths of menus. After learning how to look for content, finding information became more pleasant and effective. I started to appreciate the high volumes of data available. The fact it allows me to learn more about other interlinked Atlassian products is a smart business move and also makes life easier for people who use more than one of their products. It grew on me.*
 
 ![Jira Software Cloud](Images/02-jira-cloud.png)
 ![Confluence Software Cloud](Images/09-confluence-cloud.png)
-![Jira Knowledge Base](Images/08-jira-kb2.png)
-![Confluence Knowledge Base](Images/17-confluence-kb.png)
 
 ### **The good:**
-Clean page layout, minimalistic design, rich in content, drawing user into the broader universe of Attlasian products via interlinking
-
+- clean page layout 
 ![Jira guide 1](Images/04-jira-guide1.png)
+- minimalistic design 
 ![Jira guide 2](Images/05-jira-guide2.png)
+- rich in content
 ![Jira guide 3](Images/06-jira-guide3.png)
+- drawing user into the broader universe of Atlasian products via interlinking
+![Confluence guide 1](Images/11-confluence-guide1.png)
+![Confluence guide 2](Images/12-confluence-guide2.png)
+![Confluence guide 3](Images/16-confluence-guide6.png)
+
 
 ### **The bad:**
 Needs getting used to, the user has to learn how to use it fast, overwhelming at first, overlapping menus
 
-![Confluence guide 1](Images/11-confluence-guide1.png)
-![Confluence guide 2](Images/12-confluence-guide2.png)
-![Confluence guide 3](Images/16-confluence-guide6.png)
+
 
 
 ## Madcap FLARE
