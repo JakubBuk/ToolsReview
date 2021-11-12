@@ -21,11 +21,11 @@ Table of content
 
 *My instinct was to test all the entrance paths first to make sure I didn't miss anything, which took time and finally landed me at the same webpage section. After testing the entrance paths, two main table of content sections emerged:*
 
-*Documentation in the form of interlinked guides* 
+*Documentation in the form of interlinked guides...* 
 ![Jira Documentation](Images/03-jira-resourcces.png)
 ![Confluence Documentation](Images/10-confluence-resources.png)
 
-*and Knowledge base with troubleshooting and how-to articles.*
+*...and Knowledge base with troubleshooting and how-to articles.*
 ![Jira Knowledge Base](Images/08-jira-kb2.png)
 ![Confluence Knowledge Base](Images/17-confluence-kb.png)
 
