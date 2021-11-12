@@ -57,13 +57,25 @@ Needs getting used to, the user has to learn how to use it fast, overwhelming at
 
 ## Madcap FLARE
 
+![Madcap Support Welcome Page](Images/18-madcap-intro.png)
+
 **Overview:**  
 *Compared to the Atlassian help website, Madcap FLARE's online support seemed more traditionally structured and organized. It may not be pretty but it sure is functional.*
 
+![FLARE Search](Images/19-flare-start.png)
+![FLARE Resources](Images/20-flare-resources.png)
+
 *The layout is easy to understand. The menu is accessible without scrolling to the bottom of the page. The search is also hard to miss as it takes the central part of the initial screen. Tutorial videos and PDFs are clearly displayed and available instantly.*
+
+![FLARE video](Images/23-flare-vid1.png)
+![FLARE tutorial](Images/21-flare-tutorial-pdf.png)
 
 ### **The good:**
 Simple and logical layout, instantly usable, the table of contents is always at hand, convenient search, readily available resources - videos and PDFs 
+![FLARE user guide](Images/22-flare-ug.png)
 
 ### **The bad:**
+![FLARE get started](Images/24-get-started.png)
 Looks a bit old-fashioned
+![FLARE KEY CONCEPTS](Images/25-key-concepts.png)
+Bottom line is... it works!
