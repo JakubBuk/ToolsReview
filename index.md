@@ -50,9 +50,10 @@ Table of content
 
 
 ### **The bad:**
-Needs getting used to, the user has to learn how to use it fast, overwhelming at first, overlapping menus
-
-
+- needs getting used to
+- the user has to learn how to use it fast
+- overwhelming at first
+- overlapping menus
 
 
 ## Madcap FLARE
@@ -71,11 +72,15 @@ Needs getting used to, the user has to learn how to use it fast, overwhelming at
 ![FLARE tutorial](Images/21-flare-tutorial-pdf.png)
 
 ### **The good:**
-Simple and logical layout, instantly usable, the table of contents is always at hand, convenient search, readily available resources - videos and PDFs 
+- simple and logical layout
+- instantly usable
+- the table of contents is always at hand
+- convenient search
+- readily available resources - videos and PDFs 
 ![FLARE user guide](Images/22-flare-ug.png)
 
 ### **The bad:**
 ![FLARE get started](Images/24-get-started.png)
-Looks a bit old-fashioned
+- looks a bit old-fashioned
 ![FLARE KEY CONCEPTS](Images/25-key-concepts.png)
 Bottom line is... it works!
