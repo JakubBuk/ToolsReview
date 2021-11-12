@@ -15,7 +15,7 @@ Table of content
 ## JIRA and Confluence by Atlassian
 
 **Overview:**   
-*It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Attlasian website. Many entrance paths are possible that eventually lead you to the specific TOCs & content.*
+*It's easy to get lost or feel overwhelmed as it's not clear where to start initially. It gets better after you find your way through the Atlassian website. Many entrance paths are possible that eventually lead you to the specific TOCs & content.*
 
 ![Atlassian Documentation](Images/01-atlassian-docu.png)
 
@@ -41,7 +41,7 @@ Table of content
 ![Jira guide 2](Images/05-jira-guide2.png)
 - rich in content
 ![Jira guide 3](Images/06-jira-guide3.png)
-- drawing user into the broader universe of Atlasian products via interlinking
+- drawing user into the broader universe of Atlassian products via interlinking
 ![Confluence guide 1](Images/11-confluence-guide1.png)
 
 *Notice the blank spaces to the right. The vertical flow of the website is a clear sign the help pages are optimised for smartphone users.*
@@ -58,7 +58,7 @@ Needs getting used to, the user has to learn how to use it fast, overwhelming at
 ## Madcap FLARE
 
 **Overview:**  
-*Compared to the Attlassian help website, Madcap FLARE's online support seemed more traditionally structured and organized. It may not be pretty but it sure is functional.*
+*Compared to the Atlassian help website, Madcap FLARE's online support seemed more traditionally structured and organized. It may not be pretty but it sure is functional.*
 
 *The layout is easy to understand. The menu is accessible without scrolling to the bottom of the page. The search is also hard to miss as it takes the central part of the initial screen. Tutorial videos and PDFs are clearly displayed and available instantly.*
 
