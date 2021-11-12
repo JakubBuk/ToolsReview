@@ -43,6 +43,8 @@ Table of content
 ![Jira guide 3](Images/06-jira-guide3.png)
 - drawing user into the broader universe of Atlasian products via interlinking
 ![Confluence guide 1](Images/11-confluence-guide1.png)
+
+*Notice the blank spaces to the right. The vertical flow of the website is a clear sign the help pages are optimised for smartphone users.*
 ![Confluence guide 2](Images/12-confluence-guide2.png)
 ![Confluence guide 3](Images/16-confluence-guide6.png)
 
